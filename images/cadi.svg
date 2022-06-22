@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266.573" height="249" viewBox="0 0 266.573 249">
+  <g id="cadi" transform="translate(-628.02 -410)">
+    <path id="Tracé_1" data-name="Tracé 1" d="M486.263,367.921h50.715l59,129H701.909l41.616-106.3" transform="translate(141.756 111.133)" fill="none" stroke="#fff" stroke-width="20"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(736 627)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="16.5" cy="16" rx="16.5" ry="16" stroke="none"/>
+      <ellipse cx="16.5" cy="16" rx="16" ry="15.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(814 627)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="15.5" cy="16" rx="15.5" ry="16" stroke="none"/>
+      <ellipse cx="15.5" cy="16" rx="15" ry="15.5" fill="none"/>
+    </g>
+    <text id="_0" data-name="0" transform="translate(752 513)" fill="#a25a07" font-size="106" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">0</tspan></text>
+  </g>
+</svg>
